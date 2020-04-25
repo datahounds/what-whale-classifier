@@ -11,5 +11,6 @@ dependencies:
   - cudatoolkit=10.2
   - tqdm
   - matplotlib
+  - ipywidgets
 prefix: D:\ProgramData\Anaconda3\envs\whatwhale-training
 
