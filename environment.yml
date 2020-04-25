@@ -1,0 +1,15 @@
+name: whatwhale-training
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.7
+  - ipykernel
+  - pip
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.2
+  - tqdm
+  - matplotlib
+prefix: D:\ProgramData\Anaconda3\envs\whatwhale-training
+
