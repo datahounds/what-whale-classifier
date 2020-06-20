@@ -1,0 +1,14 @@
+name: whatwhale-training
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.7
+  - ipykernel
+  - pip
+  - pytorch
+  - torchvision
+  - tqdm
+  - matplotlib
+  - ipywidgets
+
